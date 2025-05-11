@@ -3,7 +3,7 @@ using LabApi.Events.Arguments.PlayerEvents;
 using LabApi.Loader.Features.Plugins;
 using PlayerRoles;
 
-namespace HUD
+namespace AutoReset
 {
     public class Class1 : Plugin
 
